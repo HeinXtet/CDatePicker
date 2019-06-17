@@ -23,7 +23,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-/*Credit to original author , that library is inspire from https://github.com/lopspower/LazyDatePicker repository */
+/*Credit to original author , that library is fork from https://github.com/lopspower/LazyDatePicker repository */
 
 public class CDatePicker extends RelativeLayout {
     protected static final int LENGTH_DATE_COMPLETE = 8;
