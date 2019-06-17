@@ -15,8 +15,8 @@ Add App Level Gradle
 dependencies {
 	   implementation 'com.github.HeinXtet:CDatePicker:1.0'
 	}
-
+```
 ## Screenshot
 
-[[images/logo.png]
+![LOGO](https://raw.githubusercontent.com/HeinXtet/CDatePicker/master/images/logo.png)
  
